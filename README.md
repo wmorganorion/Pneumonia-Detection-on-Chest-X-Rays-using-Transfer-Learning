@@ -1,3 +1,3 @@
 # Pneumonia-Detection-on-Chest-X-Rays-using-Transfer-Learning
 
-/Pneumonia%20Detection%20Final%20Report.pdf
+![alt text](Pneumonia%20Detection%20Final%20Report.pdf)
